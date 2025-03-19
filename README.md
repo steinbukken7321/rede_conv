@@ -1,1 +1,1 @@
-# rede_conv
+# rede neural perceptron x rede neural convulacional
